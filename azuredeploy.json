@@ -58,6 +58,7 @@
 		},
 		"databaseName": {
 			"type": "string",
+			"defaultValue": "TodoApp",
 			"metadata": {
 				"description": "Database name"
 			}
