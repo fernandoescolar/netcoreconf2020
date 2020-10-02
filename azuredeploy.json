@@ -142,7 +142,7 @@
 					],
 					"properties": {
 						"RepoUrl": "https://github.com/fernandoescolar/netcoreconf2020",
-						"branch": "master",
+						"branch": "main",
 						"IsManualIntegration": true
 					}
 				},
