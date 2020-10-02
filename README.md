@@ -6,6 +6,5 @@ This is the demo application for *The hitchhiker's guide to Azure* workshop in t
 
 The workshop will start here:
 
-<a href="https://azuredeploy.net/?repository=https://github.com/fernandoescolar/netcoreconf2020/tree/main" target="_blank" rel="noopener noreferrer"><span class="pln">
-    </span><img src="https://devblogs.microsoft.com/cse/wp-content/uploads/sites/55/2017/01/deploybutton.png" alt="Image deploybutton" width="161" height="34" class="aligncenter size-full wp-image-11042">
-</a>
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffernandoescolar%2Fnetcoreconf2020%2Fmain%2Fazuredeploy.json)
+
